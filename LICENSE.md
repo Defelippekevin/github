@@ -1,4 +1,6 @@
 ##La sentencia
+
+
 Tal vez el tipo más conocido de sentencia sea el if. Por ejemplo:
 ~~~
 >>> x = int(input("Ingresa un entero, por favor: "))
