@@ -1,4 +1,4 @@
-##La sentencia
+## La sentencia
 
 
 Tal vez el tipo más conocido de sentencia sea el if. Por ejemplo:
