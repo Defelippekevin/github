@@ -1,3 +1,22 @@
+##La sentencia
+Tal vez el tipo más conocido de sentencia sea el if. Por ejemplo:
+~~~
+>>> x = int(input("Ingresa un entero, por favor: "))
+Ingresa un entero, por favor: 42
+>>> if x < 0:
+... x = 0
+... print('Negativo cambiado a cero')
+... elif x == 0:
+... print('Cero')
+... elif x == 1:
+... print('Simple')
+... else:
+... print('Más')
+...
+'Mas'
+
+~~~
+
 ## Iteraciones
 
 Se denominará iteración a aquel conjunto de instrucciones que se encuentran acotadas por un bloque repetivo de acciones indicadas a través de comandos en el lenguaje python. Las instrucciones por excelencia en este lenguaje pertenecen a los bloques for y while. Estos bloques poseen identación para reconocer  el bloque como tal. 
@@ -41,5 +60,3 @@ i +=1
    
 print("La suma dá " + str(resultado))
 ~~~
-
-
